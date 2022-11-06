@@ -78,7 +78,7 @@ global.lynk = 'https://lynk.id/akarinara'
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ MEDIA SOSSIAL ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 global.sig = 'https://instagram.com/esacsr'
-global.sgh = 'https://github.com/DreamLikeAmonster //github
+global.sgh = 'https://github.com/DreamLikeAmonster' //github
 global.sgc = 'https://chat.whatsapp.com/BWjq9kTxhDcAFgtCIrfP6N' //group whatsapp
 global.sdc = '-' //discord
 global.snh = '-'
