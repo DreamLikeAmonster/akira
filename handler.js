@@ -816,7 +816,7 @@ const fgclink = {
            },
            "message": {
                "groupInviteMessage": {
-                   "groupJid": "6282127487538-1625305606@g.us",
+                   "groupJid": "6287889347327-1625305606@g.us",
                    "inviteCode": "null",
                    "groupName": "Halo", 
                    "caption": wm, 
