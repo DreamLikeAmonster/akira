@@ -39,7 +39,7 @@ conn.send3ButtonImg(m.chat, `${pickRandom(flaaa2)}` + `${ucapan()} ` + `${name}`
     title: "Sᴇᴡᴀ Cᴇᴋ Dɪsɪɴɪ!!!",
     body: wm,
     thumbnail: fs.readFileSync('./media/qr.png'),
-    sourceUrl: 'https://wa.me/p/8038197776222653/62858425054589',
+    sourceUrl: 'https://wa.me/6287889347327',
      }}
   })
 }
